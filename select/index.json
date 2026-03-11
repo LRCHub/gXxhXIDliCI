@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "tune the rainbow",
+  "base_artist": "坂本真綾",
+  "createdAt": "2026-03-11T02:36:57.165374Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "tune the rainbow",
+      "artist": "Maaya Sakamoto",
+      "has_synced": false,
+      "path": "select/01_tune_the_rainbow_Maaya_Sakamoto.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "tune the rainbow",
+      "artist": "坂本真綾",
+      "has_synced": false,
+      "path": "select/02_tune_the_rainbow_坂本真綾.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "tune the rainbow",
+      "artist": "Maaya Sakamoto",
+      "has_synced": true,
+      "path": "select/03_tune_the_rainbow_Maaya_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "tune the rainbow",
+      "artist": "Maaya Sakamoto",
+      "has_synced": false,
+      "path": "select/04_tune_the_rainbow_Maaya_Sakamoto.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "tune the rainbow",
+      "artist": "坂本真綾",
+      "has_synced": false,
+      "path": "select/05_tune_the_rainbow_坂本真綾.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "tune the rainbow",
+      "artist": "Maaya Sakamoto",
+      "has_synced": true,
+      "path": "select/06_tune_the_rainbow_Maaya_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "tune the rainbow",
+      "artist": "坂本 真綾",
+      "has_synced": false,
+      "path": "select/07_tune_the_rainbow_坂本_真綾.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tune The Rainbow",
+      "artist": "Yoko Kanno & Maaya Sakamoto",
+      "has_synced": false,
+      "path": "select/08_Tune_The_Rainbow_Yoko_Kanno_&_Maaya_Sakamoto.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Tune the World Out",
+      "artist": "Don McLean",
+      "has_synced": false,
+      "path": "select/09_I_Tune_the_World_Out_Don_McLean.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Getting in Tune (The Young Vic - Live)",
+      "artist": "The Who",
+      "has_synced": false,
+      "path": "select/10_Getting_in_Tune_(The_Young_Vic_-_Live)_The_Who.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Getting In Tune [The Young Vic",
+      "artist": "The Who",
+      "has_synced": false,
+      "path": "select/11_Getting_In_Tune_[The_Young_Vic_The_Who.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Getting in Tune (The Young Vic - Live)",
+      "artist": "Who",
+      "has_synced": false,
+      "path": "select/12_Getting_in_Tune_(The_Young_Vic_-_Live)_Who.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Butchie's Tune (The Lovin' Spoonful)",
+      "artist": "Yo La Tengo",
+      "has_synced": true,
+      "path": "select/13_Butchie's_Tune_(The_Lovin'_Spoonful)_Yo_La_Tengo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "tune the rainbow",
+      "artist": "坂本 真綾",
+      "has_synced": false,
+      "path": "select/pl_01_tune_the_rainbow_坂本_真綾.txt"
+    }
+  ]
+}
